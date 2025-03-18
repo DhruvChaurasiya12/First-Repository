@@ -1,4 +1,4 @@
 # First-Repository
 This is my first repository
 <br/>
-Made by Dhruv Chaurasiya
+Made by Dhruv Kumar Chaurasiya
